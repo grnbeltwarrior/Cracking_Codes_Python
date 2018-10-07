@@ -33,4 +33,5 @@ def main():
 				sys.exit()
 	print('Transposition cipher test passed')
 
-main()
+if __name__ == '__main__':
+	main()
