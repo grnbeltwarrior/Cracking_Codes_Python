@@ -65,4 +65,5 @@ def main():
 	else:
 		print('You entered in something other than "e" or "d".')
 
-main()
+if __name__ == '__main__':
+	main()
